@@ -2,5 +2,5 @@ Get the user data...
 processing user data
 
 Make another Tag for testing 
-
+close connection
 add avatar to the user
